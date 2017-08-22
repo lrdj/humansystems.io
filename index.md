@@ -7,8 +7,6 @@ Let's see what happens when you travel very light indeed
 (reaches for phone to test output...) 
 -->
 
-<pre>
-
 Analog is the baby that was thrown out with the digital bath-water.
 
 I should know, I was one of the original guilty parties 
@@ -32,4 +30,3 @@ so hopefully we'll have real physical devices in your hands soon:-).
 Cheers,
 Dug
 
-</pre>
