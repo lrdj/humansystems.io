@@ -13,20 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Human Systems
+email: dug@humansystems.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We’ve set up Human Systems Ltd as a studio for prototyping real-world 
+  services and digital+analog devices with the intention of crowdsourcing 
+  the better outcomes to market.
+
+  Service design was never meant to mean digital-only so hopefully we’ll 
+  have real physical devices in your hands soon:-)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: dug
+github_username:  lrdj
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# theme: minima
+
 plugins:
   - jekyll-feed
 
