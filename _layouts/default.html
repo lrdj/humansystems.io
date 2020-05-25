@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-US">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">    
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/static/CSS/index.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/custom.css">
+  </head>
+
+  <body>
+
+    <a href="" class="logo header__logo" id="logo">Home</a>
+
+    <header id="header" class="header">
+    </header>
+
+    <main id="content" class="content" role="main">
+
+    <article class="page-content article-body"> 
+
+	    <div class="section-header"><h2 class="section-header__header">{{ page.headline }}</h2></div>
+      <p class="preamble">{{ page.preamble }}</p>
+<!-- unformat content variable so that we can count words and split into two paragraphs -->
+<!-- assign txtBuffer = content | strip_html | replace: ".", ". " | replace: ". io", ".io"| replace: ",", ", " -->
+{% assign txtBuffer = content | replace: "<p>", "~X|X~" | replace: "</p>", "" | strip_newlines | replace: ".", ". " | replace: ". io", ".io"| replace: ",", ", " %}
+<!-- load content into an array so we can loop over it -->
+{% assign paragraphs = txtBuffer | split: "~X|X~" %}
+<!-- divide the total number of paragraphs with ceil to round up so if the number of paras is uneven, the first columns ends up more often longer -->
+{% assign paraCount = paragraphs | size %}
+<!-- paraCount: {{ paraCount }}<br -->
+{% assign breakCount = paraCount | divided_by: 2 | plus: 1 %}
+<!-- breakCount: {{ breakCount }}<br -->
+
+<!-- insert each paragraph grouping into the layout -->
+
+      <section class="body-text">
+        <div class="body-text__col body-text__col--col1">
+{% for para in paragraphs limit: breakCount %}{% unless para == "" %}<p>{{ para }}</p>{% endunless%}{% endfor %}
+        </div>      
+        <div class="body-text__col body-text__col--col2">
+{% for para in paragraphs offset: breakCount %}{% unless para == "" %}<p>{{ para }}</p>{% endunless%}{% endfor %}
+          {% if page.signoff %}<p>{{ page.signoff }}</p>{% endif %}
+        </div>
+      </section>
+    </article> 
+
+    </main>
+
+    <footer class="footer" id="footer">
+      <!-- a href="https://humansystems.io/" class="footer__logo">Human Systems</a -->
+      <p class="footer__copyright">
+        <span class="footer__copyright-line footer__copyright-last-line">©2020 Human Systems Ltd.</span>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

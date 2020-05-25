@@ -629,7 +629,7 @@ a:visited {
 .body-text a:hover,
 .body-text a:focus,
 .body-text a:active {
-    color: #000;
+    color: #000; 
     transition: color .3s;
     position: relative
 }
@@ -808,8 +808,9 @@ body.fixed-header {
 .promo-list,
 .cta,
 .body-text {
-    margin-bottom: 90px
+    margin-bottom: 45px
 }
+/* 90 */
 
 @media(min-width:768px) {
 
@@ -827,7 +828,7 @@ body.fixed-header {
     .promo-list,
     .cta,
     .body-text {
-        margin-bottom: 150px
+        margin-bottom: 75px
     }
 }
 
@@ -847,7 +848,7 @@ body.fixed-header {
     .promo-list,
     .cta,
     .body-text {
-        margin-bottom: 210px
+        margin-bottom: 105px
     }
 }
 
@@ -890,7 +891,7 @@ body.fixed-header {
 }
 
 .header__logo {
-    background-image: url(../logo-dark.svg);
+    background-image: url(../logo.png);
     background-size: contain;
     background-position: top right;
     background-repeat: no-repeat;
@@ -1539,7 +1540,7 @@ body.fixed-header {
 
 .footer__logo {
     margin-left: 8%;
-    background: url(../logo-dark.svg) top left no-repeat;
+    background: url(../logo.png) top left no-repeat;
     background-size: contain;
     margin-bottom: 30px;
     width: 133px;

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-US">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">    
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/static/CSS/index.css">
+    <link rel="stylesheet" type="text/css" href="./custom.css">
+  </head>
+
+  <body>
+    
+  <!-- START: HEADER AND NAVIGATION -->
+  <!-- Keep this the same on each page, but set "current" class -->
+
+    <a href="" class="logo header__logo" id="logo">Home</a>
+    <header id="header" class="header">
+      <!---<button id="nav-toggle" class="header__nav-toggle">Toggle menu
+        <span class="header__nav-toggle-hamburger"><span></span><span></span>
+        </span>
+      </button>
+
+      <nav id="mainMenu" class="main-menu">
+        <ul class="main-menu__ul">
+          <li class="main-menu__li"><a data-scroll="" href="#footer__contact" class="main-menu__a current">Item1</a></li>
+          <li class="main-menu__li"><a href="https://www.Human Systems.com/work" target="_self" title="Work" class="main-menu__a">Item2</a></li>
+          <li class="main-menu__li"><a href="https://www.Human Systems.com/services" target="_self" title="Services" class="main-menu__a">Item3</a></li>
+          <li class="main-menu__li"><a href="https://www.Human Systems.com/offices" target="_self" title="Studios" class="main-menu__a">Item4</a></li>
+        </ul>
+      </nav>--->
+    </header>
+
+
+    <!-- START: MAIN -->
+    <main id="content" class="content" role="main">
+
+
+    <!-- ARTICLE -->
+
+    <article class="page-content article-body"> 
+
+	<div class="section-header"><h2 class="section-header__header">{{ page.headline }}</h2></div>
+
+	<p class="preamble">{{ page.preamble }}</p>
+
+
+<!-- unformat content variable so that we can count words and split into two paragraphs -->
+<!-- assign txtBuffer = content | strip_html | replace: ".", ". " | replace: ". io", ".io"| replace: ",", ", " -->
+
+{% assign txtBuffer = content | replace: "<p>", "~X|X~" | replace: "</p>", "" | strip_newlines | replace: ".", ". " | replace: ". io", ".io"| replace: ",", ", " %}
+<!-- load content into an array so we can loop over it -->
+{% assign paragraphs = txtBuffer | split: "~X|X~" %}
+
+<!-- divide the total number of paragraphs with ceil to round up so if the number of paras is uneven, the first columns ends up more often longer -->
+{% assign paraCount = paragraphs | size %}
+{% assign breakCount = paraCount | divided_by: 2.0 | ceil %}
+
+<!-- insert each paragraph grouping into the layout -->
+    <section class="body-text">
+      <div class="body-text__col body-text__col--col1">
+{% for para in paragraphs limit: breakCount %}{% unless para == "" %}<p>{{ para }}</p>{% endunless%}{% endfor %}
+      </div>      
+      <div class="body-text__col body-text__col--col2">
+{% for para in paragraphs offset: breakCount %}{% unless para == "" %}<p>{{ para }}</p>{% endunless%}{% endfor %}
+      </div>
+    </section>
+
+    <h2 class="promo-list__heading">If you are navigating this problem space we would like to help.</h2>
+
+<ul class="promo-list promo-list--3up promo-list--news">
+  <li class="promo-list__item promo-list__item--3up  promo-list__item--news">
+    <a class="promo" href="https://www.Human Systems.com/news/model-bank-2019-best-digital-bank-award" title="Model Bank 2019">
+      <div class="promo__image-wrapper">
+        <div class="promo__image image-focus--" style="background-image:url(IMG/body_img_1.png);">
+          <img class="sr-only" src="IMG/news_img-1.jpg" alt="">
+        </div>
+      </div>
+      
+      <div class="promo__text promo__text--black">
+        <h3 class="promo__heading">Team up</h3>
+        <p class="promo__textLine2">You will join a team passionates with different backgrounds. We believe the future should be created by collective effort.</p>  
+      </div>
+    </a>          
+  </li>
+
+  <li class="promo-list__item promo-list__item--3up  promo-list__item--news">
+    <a class="promo" href="https://www.Human Systems.com/news/flipside-london" title="Flipside">
+      <div class="promo__image-wrapper">
+        <div class="promo__image image-focus--" style="background-image:url(IMG/body_img_2.png);">
+        <img class="sr-only" src="IMG/news_img-2.png" alt="">
+        </div>
+      </div>
+      <div class="promo__text promo__text--black">
+        <h3 class="promo__heading">Think and do</h3>
+        <p class="promo__textLine2">You will learn to use design tools to tackle big challenges. And you will design and make a prototype of your design solution.</p>  
+      </div>
+    </a>
+  </li>
+  
+  <li class="promo-list__item promo-list__item--3up  promo-list__item--news">
+    <a class="promo" href="#" title="CPH FinTech">
+      <div class="promo__image-wrapper">
+        <div class="promo__image image-focus--" style="background-image:url(IMG/body_img_3.png);">
+          <img class="sr-only" src="IMG/news_img-3.png" alt="">
+        </div>
+      </div>
+      <div class="promo__text promo__text--black">
+        <h3 class="promo__heading">Stay charged</h3>
+        <p class="promo__textLine2">During the two day workshop, lunch and light refreshments will be provided.</p>
+      </div>
+    </a>
+  </li>
+
+</ul>
+
+
+
+
+    </article> 
+ 
+
+	
+    </main>
+    <!-- END: MAIN -->
+
+
+    <footer class="footer" id="footer">
+      <a href="https://humansystems.io/" class="footer__logo">Human Systems</a>
+      <p class="footer__copyright">
+        <span class="footer__copyright-line footer__copyright-last-line">©2020 Human Systems Ltd.</span>
+      </p>
+    </footer>
+
+
+
+    <script type="text/javascript" src="static/JS/index.js"></script>
+  </body>
+
+</html>

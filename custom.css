@@ -1,1 +1,32 @@
 /* Add your own styles here, if you want to overwrite anything */
+
+body, .footer {
+  background-color: #223;
+  color: #889;
+}
+
+.x_text-link,
+.article-body p a:not([class]),
+.article-body p a:not([class]):visited,
+.footer__email,
+.footer__studio-item,
+.statement__line2 p a,
+.body-text a,
+.body-text a:hover,
+.body-text a:focus,
+.body-text a:active {
+    color: #dde;
+}
+
+.x_text-link:after,
+.article-body p a:not([class]):after,
+.article-body p a:not([class]):visited:after,
+.footer__email:after,
+.footer__studio-item:after,
+.statement__line2 p a:after,
+.body-text a:after,
+.body-text a:hover:after,
+.body-text a:focus:after,
+.body-text a:active:after {
+    border-bottom: 2px solid #dde;
+}
