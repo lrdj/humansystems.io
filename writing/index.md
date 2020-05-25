@@ -12,7 +12,7 @@ A lot of service design is helping people navigate sometimes difficult or inconv
 
 This means I like to work in a team where I don't have to think twice before asking a question or reaching out to someone. This also means I need to leverage face-to-face and workshop facilitation time as much as possible, so this will be a huge challenge in our current project. I’m thinking we’ll need to engineer one to one calls as well as our big set-pieces...
 
-## The times/hours I like to work
+### The times/hours I like to work
 
 I operate best in different modes at different times.
 
@@ -29,7 +29,7 @@ These modes don't map one-to-one with times of the day and since lockdown most o
 
 I'm trying to keep my hours to a sensible maximum (flexi?) so I am spreading them across those periods.
 
-## The best ways to communicate with me
+### The best ways to communicate with me
 
 I like short emails but I also like the journalism technique "assume your reader is intelligent but knows nothing". If you ask me to do something in an email but don't give me all the details, that can lock up my thinking.
 
@@ -37,7 +37,7 @@ I have no channel preference but I find WhatsApp very handy. I find Slack with t
 
 I am here to help and support my team’s success so always ask for help the moment you think you’ll need it:-)
 
-## The ways I like to receive feedback
+### The ways I like to receive feedback
 
 Feedback is super important to me.
 
@@ -45,23 +45,23 @@ I welcome feedback given constructively in a retro format (stop doing this; cont
 
 If you thought we worked well together, I also like Linkedin recommendations.
 
-## Things I need
+### Things I need
 
 Kindness, patience, engagement.
 
-## Things I struggle with
+### Things I struggle with
 
 - Being told that something is outside of "my gift"
 - Refusing to try something
 - Resistance to exploring the unknown
 
-## Things I love
+### Things I love
 - That moment when we change the frame and all the lights go on as the opportunities for the customer line up on the roadmap:-)
 - Typography
 - My 20-year-old truck
 - Making things
 
-## Other things to know about me
+### Other things to know about me
 
 I just conducted a program of user research in Paris in French, which was a bit mental but very exciting (I grew up in Paris).
 
