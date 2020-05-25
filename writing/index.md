@@ -6,7 +6,7 @@ preamble: Congratulations on your purchase of a Dug. Your service designer comes
 signoff: Cheers, <a href="mailto:dug@humansystems.io" title="May we help you?">dug@humansystems.io</a>
 ---
 
-## Conditions I like to work in
+### Conditions I like to work in
 
 A lot of service design is helping people navigate sometimes difficult or inconvenient truths. This works best when the people believe in the service design team and trust is established as early as possible. 
 
