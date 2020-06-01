@@ -891,7 +891,7 @@ body.fixed-header {
 }
 
 .header__logo {
-    background-image: url(../logo.png);
+    background-image: url(../Xlogo.png);
     background-size: contain;
     background-position: top right;
     background-repeat: no-repeat;
@@ -974,7 +974,7 @@ body.fixed-header {
     background-position: center center;
     top: 0;
     left: 0;
-    background-image: url(../smile.svg)
+    background-image: url(../Xsmile.svg)
 }
 
 .header__nav-toggle.smile {
@@ -1540,7 +1540,7 @@ body.fixed-header {
 
 .footer__logo {
     margin-left: 8%;
-    background: url(../logo.png) top left no-repeat;
+    background: url(../Xlogo.png) top left no-repeat;
     background-size: contain;
     margin-bottom: 30px;
     width: 133px;
@@ -2692,7 +2692,7 @@ body.fixed-header {
 .matters__icon__wrap .matters__icon {
     display: table-cell;
     vertical-align: middle;
-    background: url(/static/medium.png) top left no-repeat;
+    background: url(/static/Xmedium.png) top left no-repeat;
     background-size: contain;
     width: 44px;
     height: 44px
