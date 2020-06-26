@@ -15,5 +15,7 @@ So now, after years of expecting the next digital experience to be the one, we'v
 
 We've set up Human Systems Ltd as a studio for prototyping real-world services and digital+analog devices with the intention of crowdsourcing the better outcomes to market. 
 
-Service design was never meant to mean digital-only so hopefully we'll have real physical devices in your hands soon:-). 
+Service design was never meant to mean digital-only so hopefully we'll have real physical devices in your hands soon:-)
+
+
 
