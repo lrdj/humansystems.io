@@ -150,6 +150,13 @@ a:visited {
     src: url(../FONT/icomoon.eot?vhj5t1#iefix) format('embedded-opentype'), url(../FONT/icomoon.ttf?vhj5t1) format('truetype'), url(../FONT/icomoon.woff?vhj5t1) format('woff'), url(../FONT/icomoon.svg?vhj5t1#icomoon) format('svg')
 }
 
+@font-face {
+    font-family: GT-America-Mono-Regular;
+    src: url(../FONT/GT-America-Mono-Regular.eot);
+    src: url(../FONT/GT-America-Mono-Regular.eot) format("eot"), url(../FONT/GT-America-Mono-Regular.woff2) format("woff2"), url(../FONT/GT-America-Mono-Regular.woff) format("woff"), url(../FONT/GT-America-Mono-Regular.ttf) format("truetype")
+}
+
+
 .x_icon,
 .icon--chevron-left,
 .icon--chevron-right,
@@ -744,7 +751,7 @@ a:visited {
 .article-body figure:not([class]) figcaption:not([class]),
 .footer__copyright,
 .info-card__label {
-    font-family: Helvetica Neue LT W05_85 Heavy
+    font-family: GT-America-Mono-Regular
 }
 
 .x_infocard__heading,

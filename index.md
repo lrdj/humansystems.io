@@ -4,7 +4,7 @@ title: Human Systems Ltd
 headline: Analog is the baby that was thrown out with the digital bath-water.
 preamble: I should know, I was one of the original guilty parties in the early days of the commercial internet in the UK. If we could turn it into a client-server application, we went for it.
 signoff: Cheers, <a href="mailto:dug@humansystems.io" title="May we help you?">dug@humansystems.io</a>
-contactform: true
+contactform: false
 ---
 
 I'm not sure exactly when it happened, but we feel there is now something missing between the human and the digital.
