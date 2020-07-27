@@ -22,6 +22,7 @@
 
 	    <div class="section-header"><h2 class="section-header__header">{{ page.headline }}</h2></div>
       <p class="preamble">{{ page.preamble }}</p>
+
 <!-- unformat content variable so that we can count words and split into two paragraphs -->
 <!-- assign txtBuffer = content | strip_html | replace: ".", ". " | replace: ". io", ".io"| replace: ",", ", " -->
 {% assign txtBuffer = content | replace: "<p>", "~X|X~" | replace: "</p>", "" | strip_newlines | replace: ".", ". " | replace: ". io", ".io"| replace: ",", ", " %}
@@ -43,8 +44,12 @@
 {% for para in paragraphs offset: breakCount %}{% unless para == "" %}<p>{{ para }}</p>{% endunless%}{% endfor %}
           {% if page.signoff %}<p>{{ page.signoff }}</p>{% endif %}
         </div>
+
+        {% if page.contactform == true %}{% include contact-form.html %}{% endif %}
+
       </section>
     </article> 
+    
 
     </main>
 
@@ -58,3 +63,6 @@
   </body>
 
 </html>
+
+
+
