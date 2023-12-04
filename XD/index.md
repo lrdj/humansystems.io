@@ -3,32 +3,26 @@ layout: xd
 title: Merry Christmas fellow design humans:-)
 ---
 
-breifing title
+# Instructions
 
+Explain the context and that if teams prefer, they can cheat. Or not, its up to them. The final winner will be by vote in the room. Possibly.
 
-(play Eddie Izzard "Stoned Olympics" clip? Explain
-the context and that if teams prefer, they can cheat.
-Or not, its up to them. The final winner will be by vote
-in the room. Possibly.)
-Treasure hunt? a quiz? a puzzle? a treasure hunt? a
-scavenger hunt.
-If the internet generally, or ChatGPT specifically
-means we can cheat in all our quizzes, how can we
-make them fun or maybe even worthwhile?
-You do not have enough time to fully discuss the
-questions you will consider. Please bring those issues
-and questions back with vou and continue later:-)
+It's a treasure hunt? a quiz? a puzzle? a treasure hunt? a scavenger hunt?
+
+If the internet generally, or ChatGPT specifically, means we can cheat in all our quizzes, how can we make them fun or maybe even worthwhile?
+
+If you don't have enough time to fully discuss all the questions you will consider. Please bring those issues and questions back with vou and continue later:-)
 
 
 
-Your mission
-(should you choose to accept it)
+## Your mission (should you choose to accept it)
 
+Please visit the National Museum of Scotland (aka _the museum of interesting things_). It's 5 mins walk from here.
 
-Please visit the National Museum of Scotland (aka
-the museum of interesting things) - See diagram on
-slides. Is 5 mins walk from here.
-Your mission is to
+![It's 5 mins walk from here](map.jpg)
+
+Your mission is to:
+
 - bring back something interesting to chat about in the
 pub
 - assess the impact of Al on the enjovment of
@@ -182,7 +176,3 @@ monument on?
 Sent from Outlook for iOS
 
 
-
-
-</body>
-</html>
