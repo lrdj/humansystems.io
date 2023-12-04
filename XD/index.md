@@ -12,21 +12,8 @@ Timing
 
 --> 
 
-
-# Instructions
-
-Explain the context and that if teams prefer, they can cheat. Or not, its up to them. The final winner will be by vote in the room. Possibly.
-
-It's a treasure hunt? a quiz? a puzzle? a treasure hunt? a scavenger hunt?
-
-If the internet generally, or ChatGPT specifically, means we can cheat in all our quizzes, how can we make them fun or maybe even worthwhile?
-
-If you don't have enough time to fully discuss all the questions you will consider. Please bring those issues and questions back with vou and continue later:-)
-
-have something to write with
-
-
-## Your mission (should you choose to accept it)
+# Your mission 
+_(should you choose to accept it)_
 
 Please visit the National Museum of Scotland (aka _the museum of interesting things_). It's 5 mins walk from here.
 
@@ -34,18 +21,27 @@ Please visit the National Museum of Scotland (aka _the museum of interesting thi
 
 Your mission is to:
 
-- bring back something interesting to chat about in the
+- Find something interesting to bring back and chat about in the
 pub
-- assess the impact of Al on the enjovment of
-experiences
-- share your opinions (what you think that means)
-with our colleagues
-You have 90 minutes to complete the following tasks:
+- (optionally) assess the impact of AI on the enjoyment of
+experiences generally
+- Share your opinions (what you think that means) with your colleagues
+
+You might say using ChatGPT should be banned from quizzes, and you could be right. But what if it was mandatory?
+
+There will be many ways to find the answers to these questions. Some may require visiting the museum, but many, if not all of them could be found using Google and AI. If the internet generally, or ChatGPT specifically, means we can cheat in all our quizzes, how can we make them fun or maybe even worthwhile?
+
+It's a question I want us to consider. If you don't have enough time to fully discuss all the questions you will consider, please bring them back with you and continue later:-)
+
+**So up to you how you play** You can rush to the Museum, or you could rush to a café or pub, it's up to you to decide. Whatever you decide, it should be interesting to hear what you learn.
+
+You have 2 hours from this briefing to complete the following tasks. Please get back to the Three Sisters pub by 15:30.
+
 
 
 ## Task 1
 
-Please send two people from our team to the roof
+Please send two volunteers from your team to the roof
 terrace on the 7th floor.
 They should bring back the answer to this question:
 What structure lies at bearing 337° from the viewing
