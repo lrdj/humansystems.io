@@ -3,6 +3,16 @@ layout: xd
 title: Merry Christmas fellow design humans:-)
 ---
 
+<!--
+
+Timing
+	Leave for museum  13:30
+	Start share       15:30
+	Finish            16:00
+
+--> 
+
+
 # Instructions
 
 Explain the context and that if teams prefer, they can cheat. Or not, its up to them. The final winner will be by vote in the room. Possibly.
@@ -12,6 +22,8 @@ It's a treasure hunt? a quiz? a puzzle? a treasure hunt? a scavenger hunt?
 If the internet generally, or ChatGPT specifically, means we can cheat in all our quizzes, how can we make them fun or maybe even worthwhile?
 
 If you don't have enough time to fully discuss all the questions you will consider. Please bring those issues and questions back with vou and continue later:-)
+
+have something to write with
 
 
 ## Your mission (should you choose to accept it)
