@@ -29,32 +29,27 @@ experiences generally
 
 You might say using ChatGPT should be banned from quizzes, and you could be right. But what if it was mandatory?
 
-There will be many ways to find the answers to these questions. Some may require visiting the museum, but many, if not all of them could be found using Google and AI. If the internet generally, or ChatGPT specifically, means we can cheat in all our quizzes, how can we make them fun or maybe even worthwhile?
+**So up to you how you play** 
 
-It's a question I want us to consider. If you don't have enough time to fully discuss all the questions you will consider, please bring them back with you and continue later:-)
-
-**So up to you how you play** You can rush to the Museum, or you could rush to a café or pub, it's up to you to decide. Whatever you decide, it should be interesting to hear what you learn.
+You can rush to the Museum, or you could rush to a café or pub, it's up to you to decide. Whatever you decide, it should be interesting to hear what you learn.
 
 You have 2 hours from this briefing to complete the following tasks. Please get back to the Three Sisters pub by 15:30.
 
-
+**Task 4 should happen at 15:00 at the latest**
 
 ## Task 1
 
 Please send two volunteers from your team to the roof
-terrace on the 7th floor.
-They should bring back the answer to this question:
-What structure lies at bearing 337° from the viewing
-platform?
+terrace on the 7th floor. They should bring back the answer to this question:
+
+> _What structure lies at bearing 337° from the viewing platform?_
 
 
 ## Task 2
 
-Send half of your remaining team to the Art, Design
-and Fashion galleries on level five (see map).
-They should bring back an example of where design
-assumptions might lead to creating inaccessible
-services or products.
+Send half of your remaining team to the _"Art, Design and Fashion"_ galleries on level five.
+
+They should bring back an example of where **design assumptions might lead to creating inaccessible** services or products.
 
 1. What is the thing?
 2. Why is it meaningful in accessibility terms?
@@ -62,11 +57,7 @@ services or products.
 
 ## Task 3
 
-Please send the other half of your team to the
-"Animal Senses" gallery on level three (see map).
-Hanging from the ceiling is a creature that can both
-swim faster than you, and run faster than you. This
-creature would struggle on a bicycle.
+Please send the other half of your team to the _"Animal Senses"_ gallery on level three (see map). Hanging from the ceiling is a creature that can both **swim faster than you, and run faster than you** This creature would struggle on a bicycle.
 
 1. What is this creature?
 2. Can you imagine a context where it would ride a bicycle?
@@ -76,32 +67,27 @@ creature would struggle on a bicycle.
 
 Regroup your team in one of two locations. Either the café in the basement next to the exit, or the "Balcony Café" (see map).
 
-Please all chip in and buy your two colleagues who went to the viewing platform a cake. Or two cakes. They have now walked the whole length of the museum and will need a boost to be able to tell the team about all things they have not seen
-
-_[Time check: About 45 minutes from leaving the 3
-Sisters, team captains (or team time-keeper - need
-to assign - should start gathering their teams in the
-café]_
+Please all chip in and buy your two colleagues who went to the viewing platform a cake. Or two cakes. They have now walked the whole length of the museum and will need a boost to be able to tell the team about all things they have seen.
 
 
 ## Task 5
 
-As a team (or two tables if your team is very large)
+As a team (or two tables if your team is very large) please discuss the following question:
 
-please discuss the following:
+The Museum is filled with objects that are purely artistic, ethnographic or commercial. Have you seen an object today whose success could be described in terms of:
 
-The Museum is filled with objects that are purely artistic, ethnographic or commercial. Have you seen an object today whose success during its lifetime could be described in terms of:
+1. Why did people really like it, want it or buy it? (was it **desirable?** Why?)
+2. How was the creation of this object technically **feasible** (was it cutting edge tech? A new use of old tech? A creative approach to a physical or mechanical problem?) Did tech cause its downfall?
+3. If it was a hard to make object, either because it was large, or complex, or used rare materials etc, to what degree did it succeed (or fail) because of it was financially **viable**?
 
-1. Why did people really like it, want it or buy it? (was it desirable? Why?)
-2. How was the creation of this object technically feasible (was it cutting edge tech? A new use of old tech? A creative approach to a physical or mechanical problem?) Did tech cause its downfall?
-3. If it was a hard to make object, either because it was large, or complex, or used rare materials etc, to what degree did it succeed (or fail) because of its financial viability?
-
-As an example, there is a fragment of a steel girder from the bridge _"over the silvery Tay"_ in the "Industry and Empire" galleries. The story of that girder could be told in three chapters, following the themes above.
+As an example, there is a fragment of a steel girder from the bridge _"over the silvery Tay"_ in the _"Industry and Empire"_ galleries. The story of that girder could be told in three chapters, following the themes above.
 
 Please think of an object in the Museum and describe it in those terms.
 
 
 ## Task 6
+
+As a team please discuss the following question:
 
 Something in this museum of interesting things was more interesting than the other things. Assuming you could have anything in the museum to take home with you, what would it be?
 
@@ -112,13 +98,13 @@ them today?
 
 ## Task 7
 
-Collate all your answers to the above questions (write them down so you can refer to them later).
+Now, please agree what were the most interesting things overall and prepare your presentation. When your team comes back to the pub, you'll have 5 minutes to tell your colleagues what you experienced.
 
-Reflect on what vou've done so far in this exercise, and prepare your presentation. When your team comes back to the pub, you'll have 5 minutes to tell your colleagues what you experienced.
+You can use the answers to the questions above as your interesting things or you can explore other things you saw...
 
-As part of your presentation, if some of your team members used Google or ChatGPT to answer the questions, please include thoughts on how your team's experience of the task was impacted by the existence of ChatGPT (did it make it more fun? Less?).
+As part of your presentation, if some of your team members used Google or ChatGPT to answer the questions, please include thoughts on how your team's experience of the task was impacted by the existence of ChatGPT (did it make it more fun? Less fun?).
 
-Please identify three interesting things that you experienced today. Write them down and be prepared to explain your findings to your colleagues
+_Please identify the three most interesting things that you experienced today_
 
 1. Thing one
 2. Thing two
