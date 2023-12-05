@@ -157,8 +157,8 @@ Thanks!
     display: inline-block;
     width: auto; /* Adjust the width of your square links as needed */
     padding: 0.25em 0.75em 0.25em 0.75em;
-    height: 50px; /* Adjust the height of your square links as needed */
-    line-height: 50px; /* Center text vertically in the square links */
+    height: 2em; /* Adjust the height of your square links as needed */
+    line-height: 2em; /* Center text vertically in the square links */
     text-decoration: none;
     color: #333; /* Change the text color to your preference */
     font-weight: bold;
