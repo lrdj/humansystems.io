@@ -57,7 +57,7 @@ They should bring back an example of where **design assumptions might lead to cr
 
 ## Task 3
 
-Please send the other half of your team to the "Science and Technology" galleries. They will find hot air balloons. The balloons are tethered magnetically. When the launch button turns red, clicking on it sends the balloon up to the roof
+Please send the other half of your team to the "Science and Technology" galleries. They will find hot air balloons. The balloons are tethered magnetically to their base. When the launch button turns red, clicking on it sends the balloon up to the roof
 
   - Why do you think they are tethered?
   - What would happen if they weren't?
