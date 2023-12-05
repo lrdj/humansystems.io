@@ -172,7 +172,7 @@ Thanks!
 </style>
 
 <div id="footerNav">
-	<a href="#your-mission">T</a>
+	<a href="#your-mission">&uarr;</a>
 	<a href="#task-1">T2</a>
 	<a href="#task-4">T4</a>
 	<a href="#task-6">T6</a>
