@@ -156,7 +156,7 @@ Thanks!
 #footerNav a {
     display: inline-block;
     width: auto; /* Adjust the width of your square links as needed */
-    padding: 0.25em 0.5em 0.25em 0.5em;
+    padding: 0.25em 0.75em 0.25em 0.75em;
     height: 50px; /* Adjust the height of your square links as needed */
     line-height: 50px; /* Center text vertically in the square links */
     text-decoration: none;
