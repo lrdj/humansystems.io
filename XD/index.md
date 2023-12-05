@@ -79,7 +79,7 @@ The Museum is filled with objects that are purely artistic, ethnographic or comm
 
 1. Why did people really like it, want it or buy it? (was it **desirable?** Why?)
 2. How was the creation of this object technically **feasible** (was it cutting edge tech? A new use of old tech? A creative approach to a physical or mechanical problem?) Did tech cause its downfall?
-3. If it was a hard to make object, either because it was large, or complex, or used rare materials etc, to what degree did it succeed (or fail) because of it was financially **viable**?
+3. If it was hard to make, either because it was large, or complex, or used rare materials etc, did it succeed (or fail) because it proved to be financially **viable**?
 
 As an example, there is a fragment of a steel girder from the bridge _"over the silvery Tay"_ in the _"Industry and Empire"_ galleries. The story of that girder could be told in three chapters, following the themes above.
 
@@ -88,7 +88,7 @@ Please think of an object in the Museum and describe it in those terms.
 
 ## Task 6
 
-As a team please discuss the following question:
+As a team, please discuss the following question:
 
 Something in this museum of interesting things was more interesting than the other things. Assuming you could have anything in the museum to take home with you, what would it be?
 
@@ -103,7 +103,7 @@ Now, please agree what were the most interesting things overall and prepare your
 
 You can use the answers to the questions above as your interesting things or you can explore other things you saw...
 
-As part of your presentation, if some of your team members used Google or ChatGPT to answer the questions, please include thoughts on how your team's experience of the task was impacted by the existence of ChatGPT (did it make it more fun? Less fun?).
+As part of your presentation, if some of your team members used Google or ChatGPT to answer the questions, please include thoughts on how your team's experience of the task was impacted by AI (did it make it more fun? Less fun?).
 
 _Please identify the three most interesting things that you experienced today_
 
@@ -117,8 +117,7 @@ _Please identify the three most interesting things that you experienced today_
 1. what was the scariest thing you saw and why?
 
 2. In the _"Animal Senses"_ gallery on level three, hanging from the ceiling is a creature that can both **swim faster than you, and run faster than you** (This creature would really struggle on a bicycle)
-
-  - What is this creature?
+- What is this creature?
 
 3. Can you take a photo of two team members with
 the Scottish Widow?
