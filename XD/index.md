@@ -10,6 +10,7 @@ Timing
 	Start share       15:30
 	Finish            16:00
 
+ T1 T2 T3 T4 T5 T6 T7 E
 --> 
 
 # Your mission 
@@ -134,6 +135,51 @@ monument on?
 
 
 Thanks!
+
+
+
+
+
+<style>/* Reset default margin and padding for body */
+
+/* Style for the footer navigation bar */
+#footerNav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #fff; /* Change the background color on hover */
+    border-top: 1px solid #666;
+}
+
+#footerNav a {
+    display: inline-block;
+    width: 50px; /* Adjust the width of your square links as needed */
+    height: 50px; /* Adjust the height of your square links as needed */
+    line-height: 50px; /* Center text vertically in the square links */
+    text-decoration: none;
+    color: #333; /* Change the text color to your preference */
+    font-weight: bold;
+    font-size: auto; /* Adjust the font size to your preference */
+}
+
+/* Add additional styles for link hover, active, etc. as needed */
+#footerNav a:hover {
+    background-color: #999; /* Change the background color on hover */
+}
+</style>
+
+<div id="footerNav">
+	<a href="#your-mission">T</a>
+	<a href="#task-1">T2</a>
+	<a href="#task-4">T4</a>
+	<a href="#task-6">T6</a>
+	<a href="#task-7">T7</a>
+	<a href="#extra-credit-questions">E</a>
+</div>
+
+
 
 
 
