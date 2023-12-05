@@ -181,5 +181,29 @@ Thanks!
 
 
 
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Get all the links within the footer navigation
+    const footerLinks = document.querySelectorAll("#footerNav a");
+
+    // Add click event listeners to the links
+    footerLinks.forEach(link => {
+        link.addEventListener("click", function(event) {
+            event.preventDefault(); // Prevent the default behavior of the link
+
+            // Get the target section's ID from the link's href attribute
+            const targetId = this.getAttribute("href").substring(1);
+
+            // Scroll smoothly to the target section
+            document.querySelector(`#${targetId}`).scrollIntoView({
+                behavior: "smooth"
+            });
+        });
+    });
+});
+
+</script>
+
 
 
