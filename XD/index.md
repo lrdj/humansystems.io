@@ -57,15 +57,16 @@ They should bring back an example of where **design assumptions might lead to cr
 
 ## Task 3
 
-Please send the other half of your team to the _"Animal Senses"_ gallery on level three (see map). Hanging from the ceiling is a creature that can both **swim faster than you, and run faster than you** This creature would struggle on a bicycle.
+Please send the other half of your team to the "Science and Technology" galleries. They will find hot air balloons. The balloons are tethered magnetically. When the launch button turns red, clicking on it sends the balloon up to the roof
 
-1. What is this creature?
-2. Can you imagine a context where it would ride a bicycle?
+  - Why do you think they are tethered?
+  - What would happen if they weren't?
+  - How high did yours go?
 
 
 ## Task 4
 
-Regroup your team in one of two locations. Either the café in the basement next to the exit, or the "Balcony Café" (see map).
+**Regroup your team in one of two locations. Either the café in the basement next to the exit, or the "Balcony Café" (see map)**
 
 Please all chip in and buy your two colleagues who went to the viewing platform a cake. Or two cakes. They have now walked the whole length of the museum and will need a boost to be able to tell the team about all things they have seen.
 
@@ -91,9 +92,9 @@ As a team please discuss the following question:
 
 Something in this museum of interesting things was more interesting than the other things. Assuming you could have anything in the museum to take home with you, what would it be?
 
-1. What would your team take home with
+  1. What would your team take home with
 them today?
-2. Why did you pick this thing?
+  2. Why did you pick this thing?
 
 
 ## Task 7
@@ -106,21 +107,18 @@ As part of your presentation, if some of your team members used Google or ChatGP
 
 _Please identify the three most interesting things that you experienced today_
 
-1. Thing one
-2. Thing two
-3. Thing three
+  1. Thing one
+  2. Thing two
+  3. Thing three
 
 
 ## Extra credit questions (no points but possibly fun)
 
 1. what was the scariest thing you saw and why?
 
-2. The hot air balloons are tethered magnetically.
-When the launch button turns red, clicking on it sends
-the balloon up to the roof
+2. In the _"Animal Senses"_ gallery on level three, hanging from the ceiling is a creature that can both **swim faster than you, and run faster than you** (This creature would really struggle on a bicycle)
 
-  - Why do you think they are tethered?
-  - What would happen if they weren't?
+  - What is this creature?
 
 3. Can you take a photo of two team members with
 the Scottish Widow?
@@ -131,7 +129,8 @@ wearing a space suit?
 5. Which Thunderbird spacecraft did Scott base his
 monument on?
 
-6. What was "Kissing the Maiden"?
+6. What was known as "Kissing the Maiden" in the 1600s?
+
 
 
 Thanks!
