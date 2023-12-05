@@ -112,7 +112,8 @@ _Please identify the three most interesting things that you experienced today_
   3. Thing three
 
 
-## Extra credit questions (no points but possibly fun)
+## Extra credit questions 
+_(no points but possibly fun?)_
 
 1. what was the scariest thing you saw and why?
 
