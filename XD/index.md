@@ -149,7 +149,7 @@ Thanks!
     left: 0;
     width: 100%;
     text-align: center;
-    background-color: #fff; /* Change the background color on hover */
+    background-color: #eef; /* Change the background color on hover */
     border-top: 1px solid #666;
 }
 
